@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://cloud189-shandong-person.oos-sdqd.ctyunapi.cn/1c911b79-bf14-40c5-b222-0e5199d65d3f?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=caf5e6901807aca55a45&x-amz-UID=441135222&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Simplicity-Auto%40MIX%202_DEV-20200417-20.3.26-9.0-2166406f.zip%22%3Bfilename*%3DUTF-8%27%27Simplicity-Auto%2540MIX%2B2_DEV-20200417-20.3.26-9.0-2166406f.zip&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D12&Signature=54tTlcOnmPzYjit9VR5OhWXDR%2B8%3D&x-amz-SHID=1146611094401&Expires=1639646409&x-amz-FSIZE=1907427530&x-amz-UFID=61473112469629371KeyId=caf5e6901807aca55a45&x-amz-UID=441135222&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Simplicity-Auto%40MIX%202_DEV-20200417-20.3.26-9.0-2166406f.zip%22%3Bfilename*%3DUTF-8%27%27Simplicity-Auto%2540MIX%2B2_DEV-20200417-20.3.26-9.0-2166406f.zip&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D12&Signature=x7Iw82HTZHt%2BoHghfhtQhuHN/oA%3D&x-amz-SHID=1146611094401&Expires=1639644480&x-amz-FSIZE=1907427530&x-amz-UFID=61473112469629371
   ROM_NAME: MIUI
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: a-only
   TZ: Asia/Shanghai
 
 jobs:
