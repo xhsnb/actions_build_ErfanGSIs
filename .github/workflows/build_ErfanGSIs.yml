@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://udomain.dl.sourceforge.net/project/rayrzy/NusantaraProject/Nusantara_LTS-10-vince-09102021-UNOFFICIAL-0412.zip
-  ROM_NAME: Generic
+  ROM_NAME: Nusantara_LTS-10-vince-09102021-UNOFFICIAL-0412.zip
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
